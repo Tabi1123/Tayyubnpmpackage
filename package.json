@@ -1,0 +1,19 @@
+{
+  "name": "tayyubpackage",
+  "version": "1.0.0",
+  "description": "This is an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabi1123/Tayyubnpmpackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabi1123/Tayyubnpmpackage/issues"
+  },
+  "homepage": "https://github.com/Tabi1123/Tayyubnpmpackage#readme"
+}
